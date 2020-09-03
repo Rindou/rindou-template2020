@@ -1,6 +1,8 @@
 # rindou-template2020
 個人事業主向けのホームページ制作に使いやすいWordPressテーマです。
 
+女性のWebデザイナーが作成した優しい雰囲気のデザインです。
+
 サンプルサイトはこち
 https://rindouwebdesign.com/sample02/
 
